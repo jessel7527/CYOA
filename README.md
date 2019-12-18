@@ -2,9 +2,12 @@
 ## Demo
 
 The purpose of creating this repository was to find the path that you wish to go along throughout your daily life decisions.
+
 Click here to begin!
-Click here to see the diagram of this CYOA!
-Made by Your Name
+
+Click [here](https://docs.google.com/drawings/d/104wzl0mFnfWq8U8hvdulbZki8e3Omf8suE-OXh_Nd1M/edit) to see the diagram of this CYOA!
+
+Made by [Jesse Lin](https://github.com/jessel7527)
 
 
 You need a home.md file that acts as the set-up for your story. This should lay out the story in a few sentences and offer the player at least two choices.
