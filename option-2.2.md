@@ -4,4 +4,4 @@
 
 [Answer the call and deal with the commentary!](option-3.3.md)
 
-[Ignore the voicalmail. Your going to do the many chores that your parent made you complete for you not doing to class! ](option-3.4.md)
+[Ignore the voicalmail. You are going to do the chores that your parent made you complete for you not being at class! ](option-3.4.md)
