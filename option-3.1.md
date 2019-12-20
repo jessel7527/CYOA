@@ -6,4 +6,4 @@
 
 [You are bored of the house and the people and you decided to leave the house for good](option-4.1.md)
 
-[Ignore your parents forever](optional-4.2.md)
+[Ignore your parents forever](option-4.2.md)
